@@ -8,6 +8,7 @@ func manejador(w http.ResponseWriter, r *http.Request) {
 }
 func main(){
 	http.HandleFunc("/health",manejador	)
+	http.HandleFunc("/", manejador)
 	fmt.Print("el servidor se encuentra en ejecución  en :" , "http:/localhost:3000")
 	http.ListenAndServe(":8080", nil)
 }
