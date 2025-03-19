@@ -1,6 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Lamentablemente, no puedo generar archivos PDF directamente, pero puedo proporcionarte el contenido estructurado y detallado para que lo copies, pegues y formatees en un documento. Aquí tienes el texto organizado con explicaciones y detalles:
 
 ---
 
