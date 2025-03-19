@@ -1,6 +1,6 @@
 module learningo/learn.go
 
-go 1.22.2
+go 1.24.1
 
 require github.com/fsnotify/fsnotify v1.8.0
 
