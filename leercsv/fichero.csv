@@ -1,11 +1,6 @@
-id,nombre,apellido,edad,departamento,salario
-1,Juan,Pérez,28,Ventas,45000
-2,María,Gómez,34,IT,60000
-3,Carlos,Sánchez,29,Recursos Humanos,50000
-4,Laura,Fernández,42,Marketing,55000
-5,Pedro,López,31,IT,62000
-6,Ana,Martínez,26,Ventas,47000
-7,Luis,Rodríguez,35,Recursos Humanos,52000
-8,Sofía,Díaz,30,Marketing,58000
-9,Jorge,Ruiz,40,IT,65000
-10,Elena,Moreno,33,Ventas,49000
+nombre,telefono
+Juan Pérez,555-1234
+María López,555-5678
+Carlos Gómez,555-8765
+Ana Martínez,555-4321
+Luis Ramírez,555-9876

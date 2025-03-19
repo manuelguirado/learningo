@@ -21,6 +21,6 @@ func main(){
 		fmt.Println("error al leer el archivo", err)
 	}
 	for i , record := range records {
-		fmt.Print(i, record)
+		fmt.Println(i, record)
 	}
 }
