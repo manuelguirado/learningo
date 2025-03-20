@@ -1,0 +1,104 @@
+{
+    "usuarios": [
+      {
+        "nombre": "Juan Pérez",
+        "email": "juan.perez@gmail.com",
+        "cargo": "Desarrollador Frontend"
+      },
+      {
+        "nombre": "María Gómez",
+        "email": "maria.gomez@gmail.com",
+        "cargo": "Diseñadora UX/UI"
+      },
+      {
+        "nombre": "Carlos López",
+        "email": "carlos.lopez@gmail.com",
+        "cargo": "Ingeniero de Software"
+      },
+      {
+        "nombre": "Ana Martínez",
+        "email": "ana.martinez@gmail.com",
+        "cargo": "Gerente de Proyectos"
+      },
+      {
+        "nombre": "Luis Rodríguez",
+        "email": "luis.rodriguez@gmail.com",
+        "cargo": "Analista de Datos"
+      },
+      {
+        "nombre": "Sofía Hernández",
+        "email": "sofia.hernandez@gmail.com",
+        "cargo": "Desarrolladora Backend"
+      },
+      {
+        "nombre": "Pedro García",
+        "email": "pedro.garcia@gmail.com",
+        "cargo": "Especialista en DevOps"
+      },
+      {
+        "nombre": "Laura Díaz",
+        "email": "laura.diaz@gmail.com",
+        "cargo": "Arquitecta de Software"
+      },
+      {
+        "nombre": "Jorge Ruiz",
+        "email": "jorge.ruiz@gmail.com",
+        "cargo": "Ingeniero de Calidad"
+      },
+      {
+        "nombre": "Mónica Sánchez",
+        "email": "monica.sanchez@gmail.com",
+        "cargo": "Directora de Marketing"
+      },
+      {
+        "nombre": "Ricardo Morales",
+        "email": "ricardo.morales@gmail.com",
+        "cargo": "Especialista en Seguridad Informática"
+      },
+      {
+        "nombre": "Elena Castro",
+        "email": "elena.castro@gmail.com",
+        "cargo": "Desarrolladora Full Stack"
+      },
+      {
+        "nombre": "Fernando Ortega",
+        "email": "fernando.ortega@gmail.com",
+        "cargo": "Gerente de Ventas"
+      },
+      {
+        "nombre": "Carmen Reyes",
+        "email": "carmen.reyes@gmail.com",
+        "cargo": "Analista Financiero"
+      },
+      {
+        "nombre": "Diego Mendoza",
+        "email": "diego.mendoza@gmail.com",
+        "cargo": "Ingeniero de Sistemas"
+      },
+      {
+        "nombre": "Patricia Vargas",
+        "email": "patricia.vargas@gmail.com",
+        "cargo": "Especialista en Recursos Humanos"
+      },
+      {
+        "nombre": "Roberto Guzmán",
+        "email": "roberto.guzman@gmail.com",
+        "cargo": "Desarrollador Mobile"
+      },
+      {
+        "nombre": "Lucía Herrera",
+        "email": "lucia.herrera@gmail.com",
+        "cargo": "Diseñadora Gráfica"
+      },
+      {
+        "nombre": "Miguel Ángel Torres",
+        "email": "miguel.torres@gmail.com",
+        "cargo": "Ingeniero de Redes"
+      },
+      {
+        "nombre": "Isabel Flores",
+        "email": "isabel.flores@gmail.com",
+        "cargo": "Especialista en Soporte Técnico"
+      }
+    ]
+  }
