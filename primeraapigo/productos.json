@@ -1,0 +1,31 @@
+{
+    "productos": [
+      {
+        "id": 101,
+        "nombre": "Laptop Pro",
+        "descripcion": "Laptop de 15 pulgadas con 16GB RAM",
+        "precio": 1299.99,
+        "categoria": "Electrónicos",
+        "disponible": true,
+        "stock": 50
+      },
+      {
+        "id": 102,
+        "nombre": "Smartphone X",
+        "descripcion": "Teléfono con cámara de 48MP",
+        "precio": 699.99,
+        "categoria": "Electrónicos",
+        "disponible": true,
+        "stock": 100
+      },
+      {
+        "id": 103,
+        "nombre": "Libro de Cocina",
+        "descripcion": "Recetas internacionales",
+        "precio": 29.99,
+        "categoria": "Libros",
+        "disponible": false,
+        "stock": 0
+      }
+    ]
+  }

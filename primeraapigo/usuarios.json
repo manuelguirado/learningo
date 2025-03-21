@@ -1,0 +1,27 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "email": "juan@example.com",
+        "telefono": "+123456789",
+        "fecha_registro": "2023-01-15",
+        "activo": true
+      },
+      {
+        "id": 2,
+        "nombre": "María García",
+        "email": "maria@example.com",
+        "telefono": "+987654321",
+        "fecha_registro": "2023-03-22",
+        "activo": false
+      },
+      {
+        "id": 3,
+        "nombre": "Carlos López",
+        "email": "carlos@example.com",
+        "fecha_registro": "2023-05-10",
+        "activo": true
+      }
+    ]
+  }
