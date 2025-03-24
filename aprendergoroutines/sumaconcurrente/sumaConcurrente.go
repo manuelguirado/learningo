@@ -1,8 +1,7 @@
 package main
 import (
 	"fmt"
-	"time"
-
+	"time" 
 )
 
 func sumar (numbers[]int, ch chan int) {
@@ -17,7 +16,7 @@ func main() {
 	ch := make(chan int)
 	go sumar(numbers[:len(numbers)/2] , ch) //divide el array en dos partes y los suma de manera concurrente 
 	go sumar(numbers[len(numbers)/2:] , ch) //esta es la 2 mitad del array
-	sum1, sum2 := <-ch, <- ch
+	sum1, sum2 := <-ch, <- ch //recibe la informacion de los dos canales
 	fmt.Println("suma total" , sum1 +  	sum2) 
 	time.Sleep(1 * time.Second)
 
